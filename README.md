@@ -11,7 +11,7 @@ prezto-prompt-simple is a simple theme for [Prezto](https://github.com/sorin-ion
 Install:
 
 ```
-$ curl https://raw.githubusercontent.com/kami30k/prezto-prompt-simple/master/prompt_simple_setup > ~/.zprezto/modules/prompt/functions/prompt_simple_setup
+$ curl https://raw.githubusercontent.com/kami-zh/prezto-prompt-simple/master/prompt_simple_setup > ~/.zprezto/modules/prompt/functions/prompt_simple_setup
 ```
 
 Enable:
@@ -23,4 +23,4 @@ zstyle ':prezto:module:prompt' theme 'simple'
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/kami30k/prezto-prompt-simple.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kami-zh/prezto-prompt-simple.
